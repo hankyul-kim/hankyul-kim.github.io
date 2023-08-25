@@ -5,10 +5,21 @@ project:
 website:
   title: "personal_wiki"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
+      - notes.qmd
       - about.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code:
+            url: https://https://github.com/hankyul-kim/hankyul-kim.github.io
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer: "Copyright 2023, Hank Kim"
 
 format:
   html:
