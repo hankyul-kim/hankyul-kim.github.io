@@ -15,7 +15,7 @@ website:
     tools:
       - icon: github
         menu:
-          - text: Source Code:
+          - text: Source Code
             url: https://https://github.com/hankyul-kim/hankyul-kim.github.io
   page-navigation: true
   back-to-top-navigation: true
