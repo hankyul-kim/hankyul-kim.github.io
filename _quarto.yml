@@ -16,7 +16,7 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            url: https://https://github.com/hankyul-kim/hankyul-kim.github.io
+            url: https://github.com/hankyul-kim/hankyul-kim.github.io
   page-navigation: true
   back-to-top-navigation: true
   page-footer: "Copyright 2023, Hank Kim"
