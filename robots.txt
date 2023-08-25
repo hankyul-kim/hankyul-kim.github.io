@@ -1,1 +1,1 @@
-Sitemap: https://hankyul-kim.github.io/sitemap.xml
+Sitemap: https://github.com/hankyul-kim/hankyul-kim.github.io/sitemap.xml
